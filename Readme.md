@@ -1,4 +1,4 @@
-# Project Lyriks
+# Project Realstate
 
 ![Realstate Clone](https://i.ibb.co/G0Y72n3/Real-Estate-Image.png)
 
