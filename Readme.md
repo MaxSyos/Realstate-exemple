@@ -2,7 +2,7 @@
 
 ![Realstate Clone](https://i.ibb.co/G0Y72n3/Real-Estate-Image.png)
 
-Develop an elegant React.js Music Application. 
+Develop an elegant Next.js Realstate Application. 
 
 Check out the complete project requirements [here](https://docs.google.com/document/d/13PeFwRlPEhMw_HPyrIrInvQuKaVWnpNmcv-y3NA208s/edit?usp=sharing)
 
@@ -53,7 +53,7 @@ To set up a development environment, please follow these steps:
 1. Clone the repo
 
    ```shell
-    git clone https://github.com/MaxSyos/MusicPlayer-exemple.git
+    git clone https://github.com/MaxSyos/Realstate-exemple.git
    ```
 
 2. Add .env file to the project directory containing your Rapidapi api key
